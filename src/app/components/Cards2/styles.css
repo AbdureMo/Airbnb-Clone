@@ -1,0 +1,24 @@
+.card-box .swiper-pagination-bullet-active {
+  background-color: white !important;
+}
+
+/* @media only screen and (max-width: 1000px) {
+  .swiper-container,
+  .card-img {
+    height: 400px;
+    width: 40vw;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .swiper-container,
+  .card-img {
+    height: 50%;
+    max-height: 400px;
+    width: 90vw;
+  }
+
+  .cards-flex {
+    padding: 0px;
+  }
+} */
